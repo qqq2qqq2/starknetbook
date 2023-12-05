@@ -7,7 +7,8 @@ title = "The Starknet Book"
 
 [build]
 extra-watch-dirs = ["po"]
-
+[build]
+extra-watch-dirs = ["po"]
 [preprocessor.gettext]
 after = ["links"]
 
